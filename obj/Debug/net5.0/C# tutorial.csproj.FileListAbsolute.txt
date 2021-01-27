@@ -1,0 +1,30 @@
+/Users/tom/Dev/C# tutorial/bin/Debug/net5.0/C# tutorial.deps.json
+/Users/tom/Dev/C# tutorial/bin/Debug/net5.0/C# tutorial.runtimeconfig.json
+/Users/tom/Dev/C# tutorial/bin/Debug/net5.0/C# tutorial.runtimeconfig.dev.json
+/Users/tom/Dev/C# tutorial/bin/Debug/net5.0/C# tutorial.dll
+/Users/tom/Dev/C# tutorial/bin/Debug/net5.0/ref/C# tutorial.dll
+/Users/tom/Dev/C# tutorial/bin/Debug/net5.0/C# tutorial.pdb
+/Users/tom/Dev/C# tutorial/obj/Debug/net5.0/C# tutorial.csprojAssemblyReference.cache
+/Users/tom/Dev/C# tutorial/obj/Debug/net5.0/C# tutorial.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tom/Dev/C# tutorial/obj/Debug/net5.0/C# tutorial.AssemblyInfoInputs.cache
+/Users/tom/Dev/C# tutorial/obj/Debug/net5.0/C# tutorial.AssemblyInfo.cs
+/Users/tom/Dev/C# tutorial/obj/Debug/net5.0/C# tutorial.csproj.CoreCompileInputs.cache
+/Users/tom/Dev/C# tutorial/obj/Debug/net5.0/C# tutorial.dll
+/Users/tom/Dev/C# tutorial/obj/Debug/net5.0/ref/C# tutorial.dll
+/Users/tom/Dev/C# tutorial/obj/Debug/net5.0/C# tutorial.pdb
+/Users/tom/Dev/C# tutorial/obj/Debug/net5.0/C# tutorial.genruntimeconfig.cache
+/Users/tom/Dev/C# Number Guesser/bin/Debug/net5.0/C# tutorial.deps.json
+/Users/tom/Dev/C# Number Guesser/bin/Debug/net5.0/C# tutorial.runtimeconfig.json
+/Users/tom/Dev/C# Number Guesser/bin/Debug/net5.0/C# tutorial.runtimeconfig.dev.json
+/Users/tom/Dev/C# Number Guesser/bin/Debug/net5.0/C# tutorial.dll
+/Users/tom/Dev/C# Number Guesser/bin/Debug/net5.0/ref/C# tutorial.dll
+/Users/tom/Dev/C# Number Guesser/bin/Debug/net5.0/C# tutorial.pdb
+/Users/tom/Dev/C# Number Guesser/obj/Debug/net5.0/C# tutorial.csprojAssemblyReference.cache
+/Users/tom/Dev/C# Number Guesser/obj/Debug/net5.0/C# tutorial.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tom/Dev/C# Number Guesser/obj/Debug/net5.0/C# tutorial.AssemblyInfoInputs.cache
+/Users/tom/Dev/C# Number Guesser/obj/Debug/net5.0/C# tutorial.AssemblyInfo.cs
+/Users/tom/Dev/C# Number Guesser/obj/Debug/net5.0/C# tutorial.csproj.CoreCompileInputs.cache
+/Users/tom/Dev/C# Number Guesser/obj/Debug/net5.0/C# tutorial.dll
+/Users/tom/Dev/C# Number Guesser/obj/Debug/net5.0/ref/C# tutorial.dll
+/Users/tom/Dev/C# Number Guesser/obj/Debug/net5.0/C# tutorial.pdb
+/Users/tom/Dev/C# Number Guesser/obj/Debug/net5.0/C# tutorial.genruntimeconfig.cache
